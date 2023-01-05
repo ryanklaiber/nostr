@@ -1,4 +1,4 @@
-# nostr - Notes and Other Stuff Transmitted by Relays
+# nostr - the best
 
 The simplest open protocol that is able to create a censorship-resistant global "social" network once and for all.
 
